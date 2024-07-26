@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Smruti
-- 👀 I’m interested in learning more in Data Analytics and Visualization
+- 👀 I’m interested in learning more on Data Analytics and Visualization
 - 🌱 I’m currently learning Google Data Analytics Professional and Microsoft Power BI Analyst from Coursera
 - 💞️ I’m looking to collaborate on beginner and intermediate level data analysis projects
 - 📫 You can reach me on smruti.arjani@gmail.com
